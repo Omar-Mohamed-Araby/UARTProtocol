@@ -2,6 +2,8 @@
 
 This repository contains a complete Verilog implementation of a **Universal Asynchronous Receiver Transmitter (UART)** with support for high-speed data transmission, FIFO buffering, and clock domain crossing.
 
+![Project Block Diagram](img.png)
+
 ## 📝 Project Description
 
 The UART module is designed to enable asynchronous serial communication between digital systems. It includes a **Baud Rate Generator**, **UART Transmitter (TX)**, **UART Receiver (RX)**, and **Asynchronous FIFO Buffers** to manage data flow between different clock domains.
